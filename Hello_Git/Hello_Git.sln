@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_Git", "Hello_Git\Hello_Git.csproj", "{5E9A234F-39E4-467A-8C57-C3B3023C2873}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5E9A234F-39E4-467A-8C57-C3B3023C2873}.Debug.ActiveCfg = Debug|.NET
+		{5E9A234F-39E4-467A-8C57-C3B3023C2873}.Debug.Build.0 = Debug|.NET
+		{5E9A234F-39E4-467A-8C57-C3B3023C2873}.Release.ActiveCfg = Release|.NET
+		{5E9A234F-39E4-467A-8C57-C3B3023C2873}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
