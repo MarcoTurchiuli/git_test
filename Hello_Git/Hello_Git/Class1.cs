@@ -14,7 +14,11 @@ namespace Hello_Git
 		static void Main(string[] args)
 		{
 			//Questo commento LF
+<<<<<<< HEAD
 			Console.Write("ciao git!! test2");
+=======
+			Console.Write("ciao git!! seconda volta");
+>>>>>>> test_merge_1
 			Login login = new Login();
 			Console.ReadLine();
 		}
