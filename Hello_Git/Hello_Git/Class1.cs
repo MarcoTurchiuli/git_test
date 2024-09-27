@@ -13,6 +13,7 @@ namespace Hello_Git
 		[STAThread]
 		static void Main(string[] args)
 		{
+			//Questo commento LF
 			Console.Write("ciao git!!");
 			Login login = new Login();
 			Console.ReadLine();
