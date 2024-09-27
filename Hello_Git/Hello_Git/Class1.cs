@@ -18,6 +18,8 @@ namespace Hello_Git
 			Console.Write("ciao git!! test2");
 			Login login = new Login();
 			Console.ReadLine();
+
+			//Ciao sono l'utente 1
 		}
 	}
 }
