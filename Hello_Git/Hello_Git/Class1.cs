@@ -19,7 +19,7 @@ namespace Hello_Git
 			Login login = new Login();
 			Console.ReadLine();
 
-			//ora sono di nuovo l'utente 1!!
+			//e invece no!! so sempre il 2 bis
 		}
 	}
 }
