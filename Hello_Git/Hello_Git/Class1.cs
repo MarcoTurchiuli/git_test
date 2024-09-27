@@ -16,6 +16,7 @@ namespace Hello_Git
 			//Questo commento LF
 			int i = 120;
 			Console.Write("ciao git!! test 2 seconda volta - mazza pio ");
+			i +=12;
 			Login login = new Login();
 			Console.ReadLine();
 		}
