@@ -13,13 +13,12 @@ namespace Hello_Git
 		[STAThread]
 		static void Main(string[] args)
 		{
-			//Questo commento LF
-			int i = 5;
+			//modificato il commento, modificato il valore di i e rimosso l'ultimo commento
+			//Questo commento MT
+			int i = 555; 
 			Console.Write("ciao git!! test2");
 			Login login = new Login();
 			Console.ReadLine();
-
-			//e invece no!! so sempre il 2 babooooom!!
 		}
 	}
 }
