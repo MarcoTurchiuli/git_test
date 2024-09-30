@@ -15,10 +15,12 @@ namespace Hello_Git
 		{
 			//modificato il commento, modificato il valore di i e rimosso l'ultimo commento
 			//Questo commento MT
-			int i = 555; 
+			int i = 35; 
 			Console.Write("ciao git!! test2");
 			Login login = new Login();
 			Console.ReadLine();
+			
+			//nuovi sviluppi di Luca, valore di i modificato a 35
 		}
 	}
 }
