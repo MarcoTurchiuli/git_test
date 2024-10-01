@@ -20,7 +20,8 @@ namespace Hello_Git
 			
 			
 			//COMMIT ERRATA CHE VOGLIO ELIMINARE PRIMA DEL PUSH
-			//amend della commit
+			
+			//TEST RIMOZIONE COMMIT DA REPO REMOTO
 		}
 	}
 }
