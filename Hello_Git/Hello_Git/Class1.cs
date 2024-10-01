@@ -13,15 +13,14 @@ namespace Hello_Git
 		[STAThread]
 		static void Main(string[] args)
 		{
-			//modificato il commento, modificato il valore di i e rimosso l'ultimo commento
-			//Questo commento MT
 			int i = 35; 
 			Console.Write("ciao git!! test2");
 			Login login = new Login();
 			Console.ReadLine();
 			
-			//nuove modifiche di marco che hanno valorizzato i a 10
-			//nuovo commento di prova
+			
+			//COMMIT ERRATA CHE VOGLIO ELIMINARE PRIMA DEL PUSH
+			//amend della commit
 		}
 	}
 }
