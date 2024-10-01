@@ -18,9 +18,7 @@ namespace Hello_Git
 			Login login = new Login();
 			Console.ReadLine();
 			
-			
-			//COMMIT ERRATA CHE VOGLIO ELIMINARE PRIMA DEL PUSH
-			//amend della commit
+			//TEST REVERT COMMIT + PUSH 
 		}
 	}
 }
