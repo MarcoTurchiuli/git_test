@@ -131,3 +131,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+.vs/VSWorkspaceState.json
+.vs/git_test/v17/.wsuo
+.vs/git_test/v17/DocumentLayout.json
