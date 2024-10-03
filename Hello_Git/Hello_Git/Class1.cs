@@ -18,8 +18,5 @@ namespace Hello_Git
 			Login login = new Login();
 			Console.ReadLine();
 		}
-
-		//test merge da visual studio
-		//accetto le modifiche presenti sul master ed edito questo file
 	}
 }
