@@ -20,5 +20,6 @@ namespace Hello_Git
 		}
 
 		//test merge da visual studio
+		//accetto le modifiche presenti sul master ed edito questo file
 	}
 }
