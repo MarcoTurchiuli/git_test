@@ -17,10 +17,8 @@ namespace Hello_Git
 			Console.Write("ciao git!! test2");
 			Login login = new Login();
 			Console.ReadLine();
-
-			//test cambio branch a caldo
 		}
 
-		//test cambio branch a caldo senza commit
+		//test merge da visual studio
 	}
 }
